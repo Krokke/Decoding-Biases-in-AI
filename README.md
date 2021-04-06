@@ -10,3 +10,5 @@
 1. numbered
 2. list
 
+cd 
+ls
