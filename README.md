@@ -1,8 +1,7 @@
 # Decoding-Biases-in-AI
 
-# Header
-## Header 2
-### Header 3
+# The Geopolitics of Youtube's Recommendation Algorithm
+## Does Youtube ranking algorithm reflect national geopolitical strategies?
 
 - Bulleted
 - List
