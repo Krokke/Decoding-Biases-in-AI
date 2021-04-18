@@ -1,4 +1,4 @@
-# Decoding-Biases-in-AI
+# Decoding-Biases-in-AI : Location Search Bias in Youtube
 
 # Location Search Bias in Youtube: The Geopolitics of Youtube's Recommendation Algorithm
 ## Does Youtube ranking algorithm reflect national geopolitical strategies?
