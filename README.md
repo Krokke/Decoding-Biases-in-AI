@@ -1,6 +1,5 @@
 # Location Search Bias in Youtube's Recommendation Algorithm
 
-# The Geopolitics of Youtube's Recommendation Algorithm
 ## Does Youtube ranking algorithm reflect national geopolitical strategies?
 
 1. Intro: geopolitics of algorithms, national strategies for algorithms should supposedly be aligned with geopolitical blocks, are private corporations cooperating/reflecting that? 
