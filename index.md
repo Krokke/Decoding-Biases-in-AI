@@ -27,49 +27,24 @@ c) A scraping script is run on python to collect data (URL and title) under each
 
 d) Data visualization took steps to identify any biases in search terms by exploring multiple avenues. Density plots of the videos based on their stance is evaluated both by exploring based on specific search terms as well as irrespective of them. To run a linear regression, the stance of the video is made into a dummy variable for each category and divided by the rank to form weights to the results based on the order in which they appear. A combination of density plots, value counts on video titles and regression outputs forms the study’s conclusion. 
 
+
 ## Results
 
-<!DOCTYPE html>
-<html>
+### Data overview
 
-<head>
-    <style>
-        body {
-            text-align: center;
-	}
-    </style>
-</head>
-
-<figure>
-	<img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/map_pol_all.png' width='100%'>
-	<figcaption>GeeksforGeeks Logo</figcaption>
-</figure>
-
-<figure>
+<img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/map_pol_all.png' width='100%'>
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/map_pol_sel.png' width='100%'>
-	<figcaption>GeeksforGeeks Logo</figcaption>
-</figure>
-
-<figure>
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/map_pew_all.png' width='100%'>
-	<figcaption>GeeksforGeeks Logo</figcaption>
-</figure>
-
-<figure>
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/map_pew_sel.png' width='100%'>
-	<figcaption>GeeksforGeeks Logo</figcaption>
-</figure>
 
-<div class="container">
-    <div style="float:left">
-	    <img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/vid_stance.png' width='50%'>
-    </div>
-    <div style="float:right">
-	    <img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/vid_stance_neutral.png' width='50%'>
-    </div>
-</div>
+<img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/vid_stance.png' width='50%'>
+<img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/vid_stance_neutral.png' width='50%'>
+
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/pew_polling_evolution.png' width='70%'>
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/most_freq_vid.png' width='70%'>
+
+### Models
+
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/model_variables.png' width='70%'>
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/model_supports.png' width='70%'>
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/model_supports_first_five.png' width='70%'>
