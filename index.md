@@ -29,6 +29,10 @@ d) Data visualization took steps to identify any biases in search terms by explo
 
 ## Results
 
+<img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/map_pol_all.png' width='70%'>
+<img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/map_pol_sel.png' width='70%'>
+<img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/map_pew_all.png' width='70%'>
+<img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/map_pew_sel.png' width='70%'>
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/vid_stance.png' width='70%'>
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/vid_stance_neutral.png' width='70%'>
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/pew_polling_evolution.png' width='70%'>
