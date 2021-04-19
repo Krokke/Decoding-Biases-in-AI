@@ -39,20 +39,20 @@ d) Data visualization took steps to identify any biases in search terms by explo
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/map_pew_all.png' width='100%'>
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/map_pew_sel.png' width='100%'>
 
-<img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/vid_stance.png' width='50%'>
-<img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/vid_stance_neutral.png' width='50%'>
+<img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/vid_stance.png' width='100%'>
+<img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/vid_stance_neutral.png' width='100%'>
 
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/pew_polling_evolution.png' width='70%'>
-<img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/most_freq_vid.png' width='70%'>
+<img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/most_freq_vid.png' width='100%'>
 
 ### Models
 
-<img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/model_variables.png' width='70%'>
+<img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/model_variables.png' width='60%'>
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/model_supports.png' width='70%'>
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/model_supports_first_five.png' width='70%'>
-<img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/most_freq_vid_xinjiang.png' width='70%'>
-<img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/most_freq_vid_xinjiang_terrorism.png' width='70%'>
-<img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/most_freq_vid_xinjiang_uighurs.png' width='70%'>
+<img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/most_freq_vid_xinjiang.png' width='80%'>
+<img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/most_freq_vid_xinjiang_terrorism.png' width='90%'>
+<img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/most_freq_vid_xinjiang_uighurs.png' width='100%'>
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/model_search_xinjiang_terrorism.png' width='70%'>
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/model_search_xinjiang_uighurs.png' width='70%'>
 
