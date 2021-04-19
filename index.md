@@ -1,4 +1,5 @@
-# Location Search Bias in Youtube's Recommendation Algorithm
+# Location Bias in Youtube's Search Engine
+*Does Youtube ranking algorithm reflect national geopolitics?*
 
 ## Introduction
 
