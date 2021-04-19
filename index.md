@@ -1,11 +1,11 @@
 # Location Bias in Youtube's Search Engine
-*Does Youtube ranking algorithm reflect national geopolitics?*
+*Does the Youtube search ranking algorithm reflect national geopolitics?*
 
 - [Introduction](#introduction)
 - [Literature review and approach](#literature-review-and-approach)
 - [Methodology](#methodology)
 - [Results](#results)
-- [Scope](#scope)
+- [Project scope](#scope)
 
 ## Introduction
 
@@ -37,7 +37,13 @@ d) Data visualization took steps to identify any biases in search terms by explo
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/vid_stance_neutral.png' width='70%'>
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/pew_polling_evolution.png' width='70%'>
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/most_freq_vid.png' width='70%'>
-<img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/most_freq_vid.png' width='70%'>
-
+<img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/model_variables.png' width='70%'>
+<img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/model_supports.png' width='70%'>
+<img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/model_supports_first_five.png' width='70%'>
+<img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/most_freq_vid_xinjiang.png' width='70%'>
+<img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/most_freq_vid_xinjiang_terrorism.png' width='70%'>
+<img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/most_freq_vid_xinjiang_uighurs.png' width='70%'>
+<img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/model_search_xinjiang_terrorism.png' width='70%'>
+<img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/model_search_xinjiang_uighurs.png' width='70%'>
 
 ## Scope
