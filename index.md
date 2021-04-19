@@ -8,6 +8,7 @@
   + [Data overview](#data-overview)
   + [Models](#models)
 - [Project scope](#scope)
+- [References](#references)
 
 ## Introduction
 
@@ -28,7 +29,6 @@ b) To understand the geopolitical impacts, a list of countries that had formally
 c) A scraping script is run on python to collect data (URL and title) under each search term and append onto an excel sheet, resulting in 60 results for each country. The IP address is manually selected via VPN services (NordVPN and ExpressVPN) for each country and to ensure unbiased search results, the script opens Chrome under a YouTube account that is not signed in. Each video is then evaluated and the stance of the video, whether it was pro-china, critical, balanced or unrelated is entered in a separate column.  
 
 d) Data visualization took steps to identify any biases in search terms by exploring multiple avenues. Density plots of the videos based on their stance is evaluated both by exploring based on specific search terms as well as irrespective of them. To run a linear regression, the stance of the video is made into a dummy variable for each category and divided by the rank to form weights to the results based on the order in which they appear. A combination of density plots, value counts on video titles and regression outputs forms the study’s conclusion. 
-
 
 ## Results
 
@@ -57,3 +57,31 @@ d) Data visualization took steps to identify any biases in search terms by explo
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/model_search_xinjiang_uighurs.png' width='90%'>
 
 ## Scope
+
+Our experiment underlines the necessity as well as the scope of future research in this area, to deepen our understanding of the algorithms and several variables at play. Firstly, there is an opportunity to study the longitudinal impact by observing the changes in the rankings of videos over a longer period of time, to draw parallels with the evolving geopolitical context in the countries (Hussein et al., 2020). 
+
+Moreover, as the search rankings are influenced by a plethora of factors, namely subscription dynamics, recommendations patterns, optimization strategies etc., and are operating within a larger system, therefore, it presents several possibilities for conducting simultaneous experiments on the confounding variables, in order to enrichen the collective knowledge on the subject (Rieder et al., 2018). 
+
+Additionally, a deeper analysis into the content produced/released in the regional language of respective locations can be utilised for understanding the viewpoint of the masses in the region (Bozdag et al., 2014). Therefore, an inquiry into the YouTube algorithm opens several new frontiers for further research and experimentation, as there is plenty of space to develop understanding of the same. 
+
+Overall as well, there is relatively little knowledge about how the algorithms are impacting geopolitical imaginations, however, the current evidence suggests that increased utilisation of AI algorithms would produce new geopolitical discourses, hence creating more frontiers for further exploration. 
+
+## References
+
+Bauman, Z., & Lyon, D. (2013). Liquid surveillance: A conversation. John Wiley & Sons.
+Bozdag, E., Gao, Q., Houben, G.-J., & Warnier, M. (2014). Does Offline Political Segregation Affect the Filter Bubble? An Empirical Analysis of Information Diversity for Dutch and Turkish Twitter Users. ArXiv:1406.7438 [Physics]. https://arxiv.org/abs/1406.7438
+Bryant, L. V. (2020). The YouTube Algorithm and the Alt-Right Filter Bubble. Open Information Science, 4(1), 85–90. https://doi.org/10.1515/opis-2020-0007
+Bucher T (2012) Want to be on the top? Algorithmic power and the threat of invisibility on Facebook. New Media and Society 14(7).
+Edelman BG and Luca M (2014) Digital discrimination: The case of Airbnb.com. Harvard Business School NOM Unit Working Paper No. 14-054. 
+Gillespie T (2014) The relevance of algorithms. In: Gillespie T, Boczkowski P and Foot K (eds) Media Technologies: Essays on Communication, Materiality, and Society. Cambridge, MA: MIT Press.
+Hussein, E., Juneja, P., & Mitra, T. (2020). Measuring Misinformation in Video Search Platforms: An Audit Study on YouTube. Proceedings of the ACM on Human-Computer Interaction, 4(CSCW1), 1–27. https://doi.org/10.1145/3392854
+Introna LD and Nissenbaum H (2000) Shaping the Web: Why the politics of search engines matters. The Information Society 16. 
+Kaiser, J., & Rauchfleisch, A. (2020). Birds of a Feather Get Recommended Together: Algorithmic Homophily in YouTube’s Channel Recommendations in the United States and Germany. Social Media + Society, 6(4), 205630512096991. https://doi.org/10.1177/2056305120969914
+Ledwich, M., & Zaitsev, A. (2020). Algorithmic extremism: Examining YouTube’s rabbit hole of radicalization. First Monday. https://doi.org/10.5210/fm.v25i3.10419
+Machill M, Neuberger C and Schindler F (2003) Transparency on the Net: Functions and deficiencies of Internet search engines. Info 5(1).
+Miailhe, N. (2018). The geopolitics of artificial intelligence: The return of empires? Politique Etrangere, Autumn Issue(3), 105–117. https://www.cairn-int.info/article-E_PE_183_0105--the-geopolitics-of-artificial.htm
+Munger, K., & Phillips, J. (2020). Right-Wing YouTube: A Supply and Demand Perspective. The International Journal of Press/Politics, 194016122096476. https://doi.org/10.1177/1940161220964767
+Ribeiro, M. H., Ottoni, R., West, R., Almeida, V. A. F., & Meira, W. (2020). Auditing radicalization pathways on YouTube. Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency. https://doi.org/10.1145/3351095.3372879
+Rieder, B., Matamoros-Fernández, A., & Coromina, Ò. (2018). From ranking algorithms to “ranking cultures.” Convergence: The International Journal of Research into New Media Technologies, 24(1), 50–68. https://doi.org/10.1177/1354856517736982
+Sandvig C, Hamilton K, Karahalios K, et al. (2014) Auditing algorithms: Research methods for detecting discrimination on Internet platforms. In: Data and Discrimination: Converting Critical Concerns into Productive Inquiry, Seattle, USA, 22 May 2014.
+Shifman L (2013) Memes in Digital Culture. Cambridge, MA: MIT Press. 
