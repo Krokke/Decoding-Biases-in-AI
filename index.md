@@ -1,6 +1,15 @@
 # Location Bias in Youtube's Search Engine
 *Does Youtube ranking algorithm reflect national geopolitics?*
 
+- [Location Bias in Youtube's Search Engine](#location-bias-in-youtube-s-search-engine)
+  * [Introduction](#introduction)
+  * [Literature review and approach](#literature-review-and-approach)
+  * [Methodology](#methodology)
+  * [Results](#results)
+  * [Scope](#scope)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 ## Introduction
 
 Algorithms are complex processes, and there exists limited understanding amongst the scholars and laymen alike about its functioning and implications, and its increasingly dominant role in the information we consume ‘can lead to a distortion of our perception’ (Rieder et al., 2018). In particular, the intermingling of algorithms with the political context, on social media platforms, such as YouTube, leads to real-world consequences, hence the call for developing a deeper understanding of the same, mainly along the lines of transparency and accountability. Our study aims to gather evidence about the growing speculation surrounding YouTube and its recommendation algorithms, and the extent to which it may be contributing to the ‘distortion of the perceptions’ of people through the promotion of extreme viewpoints and misinformation having geopolitical implications (Bryant, 2020). This further highlights the threat of ‘supercharged possibilities for sharp power’ looming large as the algorithms on social media platforms can potentially manipulate the public sentiment through computational propaganda, disinformation, and conspiracism by foreign actors and their domestic proxies (Miailhe, 2018). In this study, we explore the biases in search results of YouTube surrounding the controversy related to the Xinjiang region in China, and the Uighurs, a Muslim minority community, mainly to identify the relation (if any) between search results and geopolitical stance of the respective countries. Following the ‘scraping approach’, we aim to observe how YouTube’s socio-algorithmic functionings vary in different geolocations, by focusing on the retrieval and ranking of videos (Rieder et al., 2018). 
