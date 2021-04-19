@@ -44,7 +44,6 @@ d) Data visualization took steps to identify any biases in search terms by explo
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/most_freq_vid_xinjiang_terrorism.png' width='70%'>
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/most_freq_vid_xinjiang_uighurs.png' width='70%'>
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/model_search_xinjiang_terrorism.png' width='70%'>
-Hello
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/model_search_xinjiang_uighurs.png' width='70%'>
 
 ## Scope
