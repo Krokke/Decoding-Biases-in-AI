@@ -68,8 +68,8 @@ Overall as well, there is relatively little knowledge about how the algorithms a
 
 ## References
 
-Bauman, Z., & Lyon, D. (2013). Liquid surveillance: A conversation. John Wiley & Sons.
-Bozdag, E., Gao, Q., Houben, G.-J., & Warnier, M. (2014). Does Offline Political Segregation Affect the Filter Bubble? An Empirical Analysis of Information Diversity for Dutch and Turkish Twitter Users. ArXiv:1406.7438 [Physics]. https://arxiv.org/abs/1406.7438
+- Bauman, Z., & Lyon, D. (2013). Liquid surveillance: A conversation. John Wiley & Sons.
+- Bozdag, E., Gao, Q., Houben, G.-J., & Warnier, M. (2014). Does Offline Political Segregation Affect the Filter Bubble? An Empirical Analysis of Information Diversity for Dutch and Turkish Twitter Users. ArXiv:1406.7438 [Physics]. https://arxiv.org/abs/1406.7438
 Bryant, L. V. (2020). The YouTube Algorithm and the Alt-Right Filter Bubble. Open Information Science, 4(1), 85–90. https://doi.org/10.1515/opis-2020-0007
 Bucher T (2012) Want to be on the top? Algorithmic power and the threat of invisibility on Facebook. New Media and Society 14(7).
 Edelman BG and Luca M (2014) Digital discrimination: The case of Airbnb.com. Harvard Business School NOM Unit Working Paper No. 14-054. 
