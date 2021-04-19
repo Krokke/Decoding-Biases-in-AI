@@ -29,6 +29,9 @@ d) Data visualization took steps to identify any biases in search terms by explo
 
 ## Results
 
+<!DOCTYPE html>
+<html>
+
 <head>
     <style>
         body {
