@@ -29,6 +29,14 @@ d) Data visualization took steps to identify any biases in search terms by explo
 
 ## Results
 
+<head>
+    <style>
+        body {
+            text-align: center;
+	}
+    </style>
+</head>
+
 <figure>
 	<img src='https://Krokke.github.io/Decoding-Biases-in-AI/Images/map_pol_all.png' width='100%'>
 	<figcaption>GeeksforGeeks Logo</figcaption>
