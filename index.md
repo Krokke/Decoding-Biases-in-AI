@@ -24,7 +24,7 @@ d) Data visualization took steps to identify any biases in search terms by explo
 ## Results
 
 ![Figure 1-1](https://github.com/Krokke/Decoding-Biases-in-AI/blob/main/Images "vid_stance.png")
-![Figure 1-2](https://github.com/Krokke/Decoding-Biases-in-AI/blob/main/Images/vid_stance_neutral.png "vid_stance_neutral.png")
+![Figure 1-2](https://github.com/Krokke/Decoding-Biases-in-AI/blob/main/Images/vid_stance_neutral.png)
 ![Figure 2-1](https://github.com/Krokke/Decoding-Biases-in-AI/blob/main/Images/pew_polling_evolution.png "pew_polling_evolution.png")
 
 ## Scope
