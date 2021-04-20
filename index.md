@@ -5,8 +5,8 @@
 * [Literature review and approach](#literature-review-and-approach)
 * [Methodology](#methodology)
 * [Results](#results)
-    * [Data overview](#data-overview)
-    * [Models](#models)
+    - [Data overview](#data-overview)
+    - [Models](#models)
 * [Project scope](#scope)
 * [References](#references)
 
