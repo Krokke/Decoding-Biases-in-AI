@@ -1,3 +1,7 @@
+# General 
+
+This project was 
+
 https://krokke.github.io/Decoding-Biases-in-AI/
 
 # Youtube search scraper
