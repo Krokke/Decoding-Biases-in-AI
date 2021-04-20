@@ -1,3 +1,7 @@
+ul :last-child, ol :last-child {
+    margin-bottom: 0;
+}
+
 # Location Bias in Youtube's Search Engine
 *Does the Youtube search ranking algorithm reflect national geopolitics?*
 
