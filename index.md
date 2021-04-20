@@ -52,7 +52,7 @@ d) Data visualization took steps to identify any biases in search terms by explo
 <div align="center"><img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/model_variables.png' width='60%'></div>  
 <div align="center"><u>Categorical data turned into dummified variables for use in statistical modelling.</u></div>
 <div align="center"><img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/model_supports.png' width='80%'></div>  
-<div align="center"><u>A logistic model trying to predict a country's geopolitical attitude towards China from the rank-weighted stance of YouTube search results.</u></div>
+<div align="center"><u>A logistic model predicting a country's geopolitical attitude towards China from the rank-weighted stance of YouTube search results.</u></div>
 <div align="center"><img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/model_supports_first_five.png' width='80%'></div>  
 <div align="center"><u>The above model run only on the first five results of eeach YouTube search.</u></div>
 <div align="center"><img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/most_freq_vid_xinjiang.png' width='80%'></div>  
@@ -62,7 +62,7 @@ d) Data visualization took steps to identify any biases in search terms by explo
 <div align="center"><img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/most_freq_vid_xinjiang_uighurs.png' width='100%'></div>  
 <div align="center"><u>The most frequently occuring videos in the dataset when searching for the biased term 'Xinjiang Uighurs'.</div>
 <div align="center"><img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/model_search_xinjiang_terrorism.png' width='70%'></div>  
-<div align="center"><u>An OLS model trying to predict the rank-weighted stance of a YouTube search result from the search term employed.</u></div>
+<div align="center"><u>An OLS model predicting the rank-weighted stance of a YouTube search result from the search term employed.</u></div>
 <div align="center"><img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/model_search_xinjiang_uighurs.png' width='70%'></div>  
 <div align="center"><u>The above model run with different variables.</u></div>  
 
