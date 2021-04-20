@@ -24,7 +24,7 @@ Results are directly printed in the terminal as a list of 20 dictionaries each c
 
 # data.xlsx
 
-This is the dataset combining all the data collected during scraping and polling data from pew (https://www.pewresearch.org/global/).  
+This is the dataset combining all the data collected during scraping, polling data from pew (https://www.pewresearch.org/global/) and data on global geopolitics (https://www.ispionline.it/en/pubblicazione/chinas-global-future-mapping-international-support-after-covid-19-26943).  
 Minimal data cleaning was done through excel.
 
 # analysis.ipynb
