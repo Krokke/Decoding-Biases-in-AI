@@ -1,14 +1,14 @@
 # Location Bias in Youtube's Search Engine
 *Does the Youtube search ranking algorithm reflect national geopolitics?*
 
-- [Introduction](#introduction)
-- [Literature review and approach](#literature-review-and-approach)
-- [Methodology](#methodology)
-- [Results](#results)
-- [Data overview](#data-overview)
-- [Models](#models)
-- [Project scope](#scope)
-- [References](#references)
+* [Introduction](#introduction)
+* [Literature review and approach](#literature-review-and-approach)
+* [Methodology](#methodology)
+* [Results](#results)
+  * [Data overview](#data-overview)
+  * [Models](#models)
+* [Project scope](#scope)
+* [References](#references)
 
 ## Introduction
 
