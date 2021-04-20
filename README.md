@@ -7,7 +7,7 @@ https://krokke.github.io/Decoding-Biases-in-AI/
 
 # youtube_search_scraper
 
-This folder contains the scraper we used to collect data about YouTube's search algorithm. 
+This folder contains the scraper we used to collect data about YouTube's search algorithm.  
 The code was adapted from here: https://github.com/cRyp70s/youtube_search_scraper.
 
 ## Scraping
