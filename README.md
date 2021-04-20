@@ -1,5 +1,7 @@
 https://krokke.github.io/Decoding-Biases-in-AI/
 
+# Youtube search scraper
+
 ## Scraping
 
 Run main.py to scrape the top 20 YouTube search results for 'xinjiang'.
