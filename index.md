@@ -66,6 +66,8 @@ d) Data visualization took steps to identify any biases in search terms by explo
 <div align="center"><img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/model_search_xinjiang_uighurs.png' width='70%'></div>  
 <div align="center"><u>The above model run with different variables.</u></div>  
 
+some text 
+
 ## Scope
 
 Our experiment underlines the necessity as well as the scope of future research in this area, to deepen our understanding of the algorithms and several variables at play. Firstly, there is an opportunity to study the longitudinal impact by observing the changes in the rankings of videos over a longer period of time, to draw parallels with the evolving geopolitical context in the countries (Hussein et al., 2020). 
