@@ -4,10 +4,7 @@
 * [Introduction](#introduction)
 * [Literature review and approach](#literature-review-and-approach)
 * [Methodology](#methodology)
-    - [Testing]  
 * [Results](#results)
-    - [Data overview](#data-overview)
-    - [Models](#models)
 * [Project scope](#scope)
 * [References](#references)
 
@@ -33,8 +30,6 @@ d) Data visualization took steps to identify any biases in search terms by explo
 
 ## Results
 
-### Data overview
-
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/map_pol_all.png' width='100%'>
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/map_pol_sel.png' width='100%'>
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/map_pew_all.png' width='100%'>
@@ -45,8 +40,6 @@ d) Data visualization took steps to identify any biases in search terms by explo
 
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/pew_polling_evolution.png' width='70%'>
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/most_freq_vid.png' width='100%'>
-
-### Models
 
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/model_variables.png' width='60%'>
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/model_supports.png' width='80%'>
