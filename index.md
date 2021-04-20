@@ -5,6 +5,8 @@
 * [Literature review and approach](#literature-review-and-approach)
 * [Methodology](#methodology)
 * [Results](#results)
+    * [Results](#results)
+    * [Project scope](#scope)  
 * [Project scope](#scope)
 * [References](#references)
 
