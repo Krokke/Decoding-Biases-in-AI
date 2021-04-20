@@ -1,5 +1,5 @@
-# Location Bias in Youtube's Search Engine
-*Does the Youtube search ranking algorithm reflect national geopolitics?*
+# Location Bias in YouTube's Search Engine
+*Does the YouTube search ranking algorithm reflect national geopolitics?*
 
 * [Introduction](#introduction)
 * [Literature review and approach](#literature-review-and-approach)
@@ -38,24 +38,33 @@ d) Data visualization took steps to identify any biases in search terms by explo
 <div align="center"><u>Net positive impression of China from pew opinion polling, 2019. Values range from -71 in dark orange to 53 in dark blue.</u></div>
 <div align="center"><img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/map_pew_sel.png' width='100%'></div>  
 <div align="center"><u>The above map, restricted to the group of countries selected for research. Values range from -29 in dark orange to 41 in dark blue.</u></div>
+<div align="center"><img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/pew_polling_evolution.png' width='70%'></div>
+<div align="center"><u>Evolution of net positive impression of China over time, restricted only to the countries for which there is sufficient data.</u></div>
 
 <div align="center"><img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/vid_stance.png' width='60%'></div>  
 <div align="center"><u>Histogram of all the video stances in the dataset.</u></div>
 <div align="center"><img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/vid_stance_neutral.png' width='60%'></div>  
 <div align="center"><u>Histogram of the video stances in the dataset, resticted for the neutral search term 'Xinjiang.</u></div>  
 
-<div align="center"><img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/pew_polling_evolution.png' width='70%'></div>
-<div align="center"><u>Evolution of net positive impression of China over time, restricted only to the countries for which there is sufficient data.</u></div>
-<img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/most_freq_vid.png' width='100%'>
+<div align="center"><img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/most_freq_vid.png' width='100%'></div>  
+<div align="center"><u>A look at the most frequently occuring videos in the dataset.</u></div>
 
-<img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/model_variables.png' width='60%'>
-<img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/model_supports.png' width='80%'>
-<img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/model_supports_first_five.png' width='80%'>
-<img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/most_freq_vid_xinjiang.png' width='80%'>
-<img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/most_freq_vid_xinjiang_terrorism.png' width='90%'>
-<img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/most_freq_vid_xinjiang_uighurs.png' width='100%'>
-<img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/model_search_xinjiang_terrorism.png' width='70%'>
-<img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/model_search_xinjiang_uighurs.png' width='70%'>
+<div align="center"><img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/model_variables.png' width='60%'></div>  
+<div align="center"><u>Categorical data turned into dummified variables for use in statistical modelling.</u></div>
+<div align="center"><img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/model_supports.png' width='80%'></div>  
+<div align="center"><u>A logistic model trying to predict a country's geopolitical attitude towards China from the rank-weighted stance of YouTube search results.</u></div>
+<div align="center"><img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/model_supports_first_five.png' width='80%'></div>  
+<div align="center"><u>The above model run only on the first five results of eeach YouTube search.</u></div>
+<div align="center"><img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/most_freq_vid_xinjiang.png' width='80%'></div>  
+<div align="center"><u>The most frequently occuring videos in the dataset when searching for the neutral term 'Xinjiang'.</u></div>
+<div align="center"><img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/most_freq_vid_xinjiang_terrorism.png' width='90%'></div>  
+<div align="center"><u>The most frequently occuring videos in the dataset when searching for the biased term 'Xinjiang Terrorism'.</u></div>
+<div align="center"><img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/most_freq_vid_xinjiang_uighurs.png' width='100%'></div>  
+<div align="center"><u>The most frequently occuring videos in the dataset when searching for the biased term 'Xinjiang Uighurs'.</div>
+<div align="center"><img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/model_search_xinjiang_terrorism.png' width='70%'></div>  
+<div align="center"><u>An OLS model trying to predict the rank-weighted stance of a YouTube search result from the search term employed.</u></div>
+<div align="center"><img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/model_search_xinjiang_uighurs.png' width='70%'></div>  
+<div align="center"><u>The above mode with different variables.</u></div>
 
 ## Scope
 
