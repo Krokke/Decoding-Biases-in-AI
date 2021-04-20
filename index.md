@@ -5,8 +5,6 @@
 * [Literature review and approach](#literature-review-and-approach)
 * [Methodology](#methodology)
 * [Results](#results)
-    * [Results](#results)
-    * [Project scope](#scope)  
 * [Project scope](#scope)
 * [References](#references)
 
@@ -32,11 +30,14 @@ d) Data visualization took steps to identify any biases in search terms by explo
 
 ## Results
 
-This 
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/map_pol_all.png' width='100%'>
+__Geopolitical attitudes towards China's treatment of Uighurs in Xinjiang, 2020. In red, nations that have condemned China; in green, nations that have supported it.__
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/map_pol_sel.png' width='100%'>
+__The above map, restricted to the group of countries selected for research.__
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/map_pew_all.png' width='100%'>
+__Net positive impression of China from pew opinion polling, 2019. Values range from -71 in dark orange to 53 in dark blue.__
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/map_pew_sel.png' width='100%'>
+__The above map, restricted to the group of countries selected for research. Values range from -29 in dark orange to 41 in dark blue.__
 
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/vid_stance.png' width='60%'>
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/vid_stance_neutral.png' width='60%'>
