@@ -25,3 +25,12 @@ You will also need to download the drivers for your browser of choice or seleniu
 ## Customisation
 
 I have only tried running the code with Firefox, which is the default, but normally it should work with any major browser. To change the browser, you need to pass the browser name as an argument through the YoutubeSearchScraper function in main.py. (Look in yt_search_scraper.py for the precise argument names.) The search query can also be changed in main.py.
+
+# data.xlsx
+
+This is the dataset combining all the data collected during scraping and polling data from pew (https://www.pewresearch.org/global/).  
+Minimal data cleaning was done through excel.
+
+# analysis.ipynb
+
+The jupyter notebook used for data treatment and statistical analysis.
