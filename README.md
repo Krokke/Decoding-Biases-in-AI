@@ -1,7 +1,8 @@
 # General 
 
-This project was 
-
+This was a final project for a class investigating biases in artifical intelligence. 
+We tried to detect if there was a bias in YouTube's search algorithm based on the country the search was done in. 
+Here is the link to the Github Page for the project. 
 https://krokke.github.io/Decoding-Biases-in-AI/
 
 # Youtube search scraper
