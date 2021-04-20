@@ -5,7 +5,10 @@ We tried to detect if there was a bias in YouTube's search algorithm based on th
 Here is the link to the Github Page for the project.  
 https://krokke.github.io/Decoding-Biases-in-AI/
 
-# Youtube search scraper
+# youtube_search_scraper
+
+This folder contains the scraper we used to collect data about YouTube's search algorithm. 
+The code was adapted from here: https://github.com/cRyp70s/youtube_search_scraper.
 
 ## Scraping
 
