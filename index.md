@@ -64,7 +64,7 @@ d) Data visualization took steps to identify any biases in search terms by explo
 <div align="center"><img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/model_search_xinjiang_terrorism.png' width='70%'></div>  
 <div align="center"><u>An OLS model trying to predict the rank-weighted stance of a YouTube search result from the search term employed.</u></div>
 <div align="center"><img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/model_search_xinjiang_uighurs.png' width='70%'></div>  
-<div align="center"><u>The above mode with different variables.</u></div>
+<div align="center"><u>The above model run with different variables.</u></div>  
 
 ## Scope
 
