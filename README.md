@@ -1,1 +1,1 @@
-https://krokke.github.io/Location-bias-in-Youtube-recommendation-algorithm/
+https://krokke.github.io/Decoding-Biases-in-AI/
