@@ -31,15 +31,26 @@ d) Data visualization took steps to identify any biases in search terms by explo
 ## Results
 
 Let's begin by getting an overall impression of the data collected.  
+
 <div align="center"><img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/map_pol_all.png' width='100%'></div>  
 <div align="center"><u>Geopolitical attitudes towards China's treatment of Uighurs in Xinjiang, 2020. In red, nations that have condemned China; in green, nations that have supported it.</u></div>  
-This map shows which countries have condemned China over its actions in Xinjiang and which countries have supported it. 
+
+This map clearly shows the divide between West and the Golbal South over China's treatment of the Uighurs in Xinjiang.
+
 <div align="center"><img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/map_pew_all.png' width='100%'></div>  
-<div align="center"><u>Net positive impression of China from pew opinion polling, 2019. Values range from -71 in dark orange to 53 in dark blue.</u></div>
+<div align="center"><u>Net positive impression of China from pew opinion polling, 2019. Values range from -71 in dark orange to 53 in dark blue.</u></div>  
+
+Interestingly, opinion polling on China is similarly aligned, with the Member States of the EU who have positive impressions of China (Greece, Bulgaria) not counting amongst the condemning countries. It is worth noting that there is a range of public opinion on China among countries that have no official position on the Xinjiang issue.  
+
 <div align="center"><img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/pew_polling_evolution.png' width='70%'></div>
-<div align="center"><u>Evolution of net positive impression of China over time, restricted only to the countries for which there is sufficient data.</u></div>
+<div align="center"><u>Evolution of net positive impression of China over time, restricted only to the countries for which there is sufficient data.</u></div>  
+
+A very limited look at countries for which there is yearly opinion polling on China; positive impressions of the country have been steadily falling since 2017.  (The population size here is only 6 countries.)
+
 <div align="center"><img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/map_pol_sel.png' width='100%'></div>  
-<div align="center"><u>Geopolitical attitudes towards China's treatment of Uighurs in Xinjiang, 2020. In red, nations that have condemned China; in green, nations that have supported it. The map has been restricted to the group of countries selected for research.</u></div>
+<div align="center"><u>Geopolitical attitudes towards China's treatment of Uighurs in Xinjiang, 2020. In red, nations that have condemned China; in green, nations that have supported it. The map has been restricted to the group of countries selected for research.</u></div>  
+
+The geopolitical stance of the countries selected for studying. Among countries with no offical stance, we made an effort to have a variety of public opinion on China, to prevent this category from manifesting some underlying bias.  
 
 <div align="center"><img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/vid_stance.png' width='60%'></div>  
 <div align="center"><u>Histogram of all the video stances in the dataset.</u></div>
