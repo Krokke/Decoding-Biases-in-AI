@@ -34,9 +34,9 @@ Let's begin by getting an overall impression of the data collected.
 <br/><br/>
 <div align="center"><img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/map_pol_all.png' width='100%'></div>  
 <div align="center"><u>Geopolitical attitudes towards China's treatment of Uighurs in Xinjiang, 2020. In red, nations that have condemned China; in green, nations that have supported it.</u></div>
-<br/><br/>
+<br>
 This map clearly shows the divide between West and the Golbal South over China's treatment of the Uighurs in Xinjiang.
-<br/><br/>
+<br>
 <div align="center"><img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/map_pew_all.png' width='100%'></div>  
 <div align="center"><u>Net positive impression of China from pew opinion polling, 2019. Values range from -71 in dark orange to 53 in dark blue.</u></div>
 <br/><br/>
@@ -64,7 +64,9 @@ Even when we look at the same data, but restricting ourselves to the general ter
 <br/><br/>
 <div align="center"><img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/most_freq_vid.png' width='100%'></div>  
 <div align="center"><u>A look at the most frequently occuring videos in the dataset.</u></div>
-
+<br/><br/>
+Looking at the most frequent search results now, we see that the top two videos are actually pro-China videos created by state media, with the following three being critical content. So while pro-China content remains the minority of search results, some of this content has a high degree of visibility accross YouTube searches. 
+<br/><br/>
 <div align="center"><img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/model_variables.png' width='60%'></div>  
 <div align="center"><u>Categorical data turned into dummified variables for use in statistical modelling.</u></div>
 <div align="center"><img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/model_supports.png' width='80%'></div>  
