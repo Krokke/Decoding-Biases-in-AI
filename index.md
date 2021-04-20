@@ -38,11 +38,11 @@ d) Data visualization took steps to identify any biases in search terms by explo
 <u>Net positive impression of China from pew opinion polling, 2019. Values range from -71 in dark orange to 53 in dark blue.</u>
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/map_pew_sel.png' width='100%'>
 <u>The above map, restricted to the group of countries selected for research. Values range from -29 in dark orange to 41 in dark blue.</u>
-#
+
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/vid_stance.png' width='60%'>
 <u>Histogram of all the video stances in the dataset.</u>
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/vid_stance_neutral.png' width='60%'>
-<u>Histogram the video stances in the dataset, resticted for the neutral search term 'Xinjiang.</u>
+<u>Histogram of the video stances in the dataset, resticted for the neutral search term 'Xinjiang.</u>
 
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/pew_polling_evolution.png' width='70%'>
 <img src='https://Krokke.github.io/Decoding-Biases-in-AI/images/most_freq_vid.png' width='100%'>
